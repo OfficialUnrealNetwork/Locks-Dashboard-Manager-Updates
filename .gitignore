@@ -1,0 +1,9 @@
+# Release binaries belong in GitHub Releases, not the repository tree.
+*.zip
+*.dmg
+*.exe
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
