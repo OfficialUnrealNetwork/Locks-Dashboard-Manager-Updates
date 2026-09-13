@@ -6,7 +6,7 @@
 
 Public release repository for Lock Release / Locks Tracker.
 
-The application source is maintained in the private `OfficialUnrealNetwork/Locks-Dashboard-Manager` repository. This repository is intentionally kept minimal; installers and update packages are published through GitHub Releases.
+The application source is maintained in the private `Sault-Ste-Marie-Locks/Locks-Dashboard-Manager` repository. This repository is intentionally kept minimal; installers and update packages are published through GitHub Releases.
 
 Use the **Releases** section for Windows, macOS, and automatic-update packages.
 
