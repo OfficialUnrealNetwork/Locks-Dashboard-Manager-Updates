@@ -1,7 +1,7 @@
 # Lock Release Updates
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png" alt="GitHub Profile Header Generator Banner" width="100%">
+  <img src="https://i.imgur.com/RK7a7nP.png" alt="GitHub Profile Header Generator Banner" width="100%">
 </p>
 
 Public release repository for Lock Release / Locks Tracker.
