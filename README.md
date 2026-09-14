@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cPkaqbi.png" alt="Lock Release Updates Banner" width="100%">
+  <img src="https://i.imgur.com/hD1iUgQ.png" alt="Lock Release Updates Banner" width="100%">
 </p>
 
 <h1 align="center">Lock Release Updates</h1>
