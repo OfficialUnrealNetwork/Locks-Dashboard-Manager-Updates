@@ -17,7 +17,7 @@ This repository is used to distribute public releases of **Lock Release / Locks 
 The main application source code is maintained privately in:
 
 ```text
-Sault-Ste-Marie-Locks/Locks-Dashboard-Manager
+Sault-Ste-Marie-Locks/Sault-Locks-Open-Source
 ```
 
 This repository is intentionally kept minimal and contains only the files required for public downloads, application updates, and release distribution.
@@ -57,7 +57,7 @@ The Lock Release application source code is **not hosted in this repository**.
 Development is maintained privately in:
 
 ```text
-Sault-Ste-Marie-Locks/Locks-Dashboard-Manager
+Sault-Ste-Marie-Locks/Sault-Locks-Open-Source
 ```
 
 This separation keeps development files private while allowing installers and application updates to remain publicly accessible.
