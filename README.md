@@ -1,13 +1,25 @@
+<p align="center">
+  <img src="https://i.imgur.com/YgL4Kwj.png" width="100%">
+</p>
+
 # Locks Tracker Updates
 
-Automatic update feed for installed **Locks Tracker** desktop clients.
+This repository provides the **automatic update feed** for installed Locks Tracker desktop applications.
 
-Installed apps check the Releases section here for `Lock_Release_Update.zip`. This repository is not the normal user download page.
+Locks Tracker clients use the Releases section of this repository to download:
 
-User-facing Windows and macOS downloads are published at:
+`Lock_Release_Update.zip`
 
-`Sault-Ste-Marie-Locks/Sault-Locks-Tracker-Releases`
+This repository is intended for the application's updater and is **not the public download page**.
 
-Application source is maintained at:
+## Download Locks Tracker
 
-`Sault-Ste-Marie-Locks/Sault-Locks-Open-Source`
+Windows and macOS installers are available from:
+
+**Sault-Ste-Marie-Locks/Sault-Locks-Tracker-Releases**
+
+## Source Code
+
+Application source is maintained in:
+
+**Sault-Ste-Marie-Locks/Sault-Locks-Open-Source**
